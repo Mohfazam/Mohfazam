@@ -25,15 +25,17 @@
 ---
 
 ### GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" style="width: 48%; margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" style="width: 48%; margin: 10px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" style="width: 45%; margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" style="width: 45%; margin: 10px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 60%; margin: 10px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 50%; margin-top: 20px;" />
 </div>
 
 ---
+
 
 
 
