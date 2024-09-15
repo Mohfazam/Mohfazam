@@ -50,4 +50,5 @@
 ---
 
 ### Contribution Snake:
-![snake gif](https://github.com/mohfazam/mohfazam/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mohfazam/Mohfazam/blob/output/github-contribution-grid-snake.svg)
+
