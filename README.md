@@ -57,3 +57,8 @@
 - [Zenith Notes](https://github.com/yourrepo/zenith-notes): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
 - [Tic-Tac-Toe](https://github.com/yourrepo/tic-tac-toe): A JavaScript-based Tic-Tac-Toe game with win pattern checks and game reset functionality.
 
+  ### Certifications:
+- JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
+- Git and GitHub for Beginners (Coursera)
+
+
