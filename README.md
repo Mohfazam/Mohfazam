@@ -20,20 +20,22 @@
 </p>
 
 
+
+
 ---
 
 ### GitHub Stats:
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" />
-</p>
-<p align="left">
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" />
-</p>
-<p align="left">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
 ---
+
+
 
 ### Featured Projects:
 - [Zenith Notes](https://github.com/yourrepo/zenith-notes): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
