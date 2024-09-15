@@ -56,7 +56,3 @@
 - **Version Control**: Git, GitHub
 - **Database**: MongoDB (for future projects)
 - **Hosting**: Vercel (for deploying projects)
-
-
-### GitHub Activity Graph:
-![Mohfazam's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohfazam&theme=tokyo-night)
