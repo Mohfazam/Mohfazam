@@ -33,7 +33,9 @@
 ---
 
 ### LeetCode Stats:
-[![Mohfazam's LeetCode stats](https://leetcode-stats-api.herokuapp.com/Mohfazam?theme=dark)](https://leetcode.com/Mohfazam)
+### LeetCode Profile:
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mohfazam)
+
 
 ---
 
