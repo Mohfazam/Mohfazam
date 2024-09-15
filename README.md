@@ -35,24 +35,6 @@
 
 ---
 
-### LeetCode Stats:
-### LeetCode Profile:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mohfazam)
-
-
----
-
-### GeeksforGeeks Profile:
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Mohfazam/profile)
-
----
-
-### Codeforces Stats:
-![Codeforces](https://img.shields.io/badge/Codeforces-Mohfazam-blue?style=for-the-badge&logo=codeforces&logoColor=white)
-
-
-
-
 ### Featured Projects:
 - [Zenith Notes](https://github.com/yourrepo/zenith-notes): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
 - [Tic-Tac-Toe](https://github.com/yourrepo/tic-tac-toe): A JavaScript-based Tic-Tac-Toe game with win pattern checks and game reset functionality.
@@ -64,4 +46,7 @@
 ### Competitive Programming Profiles:
 - [LeetCode](https://leetcode.com/Mohfazam): 100+ problems solved.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
+- [CodeForces]((https://codeforces.com/profile/mohfazam)): 650+ rating on CodeForces.
+
 
