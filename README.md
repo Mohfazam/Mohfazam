@@ -61,4 +61,7 @@
 - JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
 - Git and GitHub for Beginners (Coursera)
 
+### Competitive Programming Profiles:
+- [LeetCode](https://leetcode.com/Mohfazam): 100+ problems solved.
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
 
