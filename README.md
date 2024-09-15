@@ -47,6 +47,6 @@
 ### Codeforces Stats:
 ![Codeforces](https://img.shields.io/badge/Codeforces-Mohfazam-blue?style=for-the-badge&logo=codeforces&logoColor=white)
 
-![snake gif](https://github.com/Mohfazam/Mohfazam/blob/output/github-contribution-grid-snake.svg)
+
 
 
