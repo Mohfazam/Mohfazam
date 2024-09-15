@@ -50,3 +50,13 @@
 - [CodeForces](https://codeforces.com/profile/mohfazam): 650+ rating on CodeForces.
 
 
+### Tech Stack:
+- **Frontend**: HTML5, CSS3, JavaScript (React)
+- **Backend**: Node.js (for future projects)
+- **Version Control**: Git, GitHub
+- **Database**: MongoDB (for future projects)
+- **Hosting**: Vercel (for deploying projects)
+
+
+### GitHub Activity Graph:
+![Mohfazam's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohfazam&theme=tokyo-night)
