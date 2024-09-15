@@ -47,6 +47,6 @@
 - [LeetCode](https://leetcode.com/Mohfazam): 100+ problems solved.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
-- [CodeForces]((https://codeforces.com/profile/mohfazam)): 650+ rating on CodeForces.
+- [CodeForces](https://codeforces.com/profile/mohfazam): 650+ rating on CodeForces.
 
 
