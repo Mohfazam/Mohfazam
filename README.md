@@ -7,7 +7,7 @@
 
 ---
 
-### Languages, Tools and Technologies:
+### Languages, Tools and Technologie's:
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -18,30 +18,50 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+
+
 ---
 
 ### GitHub Stats:
 
-![Mohfazam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" width="400" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" width="400" />
+    </td>
 
-![Mohfazam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight)
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" width="500" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+
+
+
 
 ### Featured Projects:
 - [Zenith Notes](https://github.com/yourrepo/zenith-notes): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
 - [Tic-Tac-Toe](https://github.com/yourrepo/tic-tac-toe): A JavaScript-based Tic-Tac-Toe game with win pattern checks and game reset functionality.
 
-### Certifications:
+  ### Certifications:
 - JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
 - Git and GitHub for Beginners (Coursera)
 
 ### Competitive Programming Profiles:
 - [LeetCode](https://leetcode.com/Mohfazam): 100+ problems solved.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
 - [CodeForces](https://codeforces.com/profile/mohfazam): 650+ rating on CodeForces.
+
 
 ### Tech Stack:
 - **Frontend**: HTML5, CSS3, JavaScript (React)
