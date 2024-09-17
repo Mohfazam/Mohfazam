@@ -31,7 +31,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" width="400" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" width="400" />
+      ![Mohfazam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight)
     </td>
   </tr>
   <tr>
