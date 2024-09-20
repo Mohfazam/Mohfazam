@@ -82,8 +82,9 @@
 </p>
 
 
-### WakaTime Coding Stats:
+### 3D Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohfazam&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github.com/mohfazam/mohfazam/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
+
 
