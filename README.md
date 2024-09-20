@@ -83,4 +83,5 @@
 
 
 ### Visitors:
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mohfazam.visitor-badge)
+![Visitors](https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue)
+
