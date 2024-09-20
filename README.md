@@ -81,3 +81,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+
+### Dev Card:
+<p align="center">
+  <a href="https://app.daily.dev/mohfazam"><img src="https://api.daily.dev/devcards/your_devcard_id.svg" width="400" alt="Mohfazam's Dev Card"/></a>
+</p>
+
+
