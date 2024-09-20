@@ -82,9 +82,3 @@
 </p>
 
 
-### 3D Contribution Graph:
-<p align="center">
-  <img src="https://github.com/mohfazam/mohfazam/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
-
