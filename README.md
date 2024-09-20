@@ -75,3 +75,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
+
+### GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
