@@ -69,3 +69,9 @@
 - **Version Control**: Git, GitHub
 - **Database**: MongoDB (for future projects)
 - **Hosting**: Vercel (for deploying projects)
+
+### Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
