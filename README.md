@@ -82,9 +82,8 @@
 </p>
 
 
-### Dev Card:
+### WakaTime Coding Stats:
 <p align="center">
-  <a href="https://app.daily.dev/mohfazam"><img src="https://api.daily.dev/devcards/your_devcard_id.svg" width="400" alt="Mohfazam's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohfazam&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </p>
-
 
