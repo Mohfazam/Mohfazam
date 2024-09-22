@@ -60,6 +60,52 @@
 </div>
 ---
 
+
+import React from 'react';
+
+const GitHubStats = ({ username, theme = '2077' }) => {
+  const cards = [
+    {
+      src: `http://github-profile-summary-cards.vercel.app/api/cards/stats?username=${username}&theme=${theme}`,
+      alt: "GitHub Stats"
+    },
+    {
+      src: `http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=${username}&theme=${theme}`,
+      alt: "Most Commit Language"
+    },
+    {
+      src: `http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=${username}&theme=${theme}`,
+      alt: "Repos per Language"
+    },
+    {
+      src: `http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${username}&theme=${theme}`,
+      alt: "Productive Time"
+    },
+    {
+      src: `http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=${theme}`,
+      alt: "Profile Details"
+    }
+  ];
+
+  return (
+    <div className="flex flex-col items-center w-full max-w-5xl mx-auto p-4">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" className="w-full mb-4" />
+      <h3 className="text-2xl font-bold mb-6">Statistics</h3>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {cards.map((card, index) => (
+          <div key={index} className={`bg-gray-800 rounded-lg shadow-lg overflow-hidden ${index === 4 ? 'col-span-full' : ''}`}>
+            <img src={card.src} alt={card.alt} className="w-full h-auto" />
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export default GitHubStats;
+
+
+
 ### Future Plans:
 - 🚀 Exploring AI integrations with Web3 and Blockchain.
 - 💡 Working on decentralized apps (DApps) as side projects.
