@@ -70,10 +70,14 @@
     <td align="center" style="padding: 10px; width: 33%;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" />
     </td>
+    <td align="center" style="padding: 10px; width: 33%;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=mohfazam&theme=2077" height="180em" />
+    </td>
   </tr>
 </table>
 
 ---
+
 
 
 ### Future Plans:
