@@ -71,12 +71,13 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" />
     </td>
     <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://metrics.lecoq.io/mohfazam?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=0&config.timezone=Asia%2FCalcutta" height="180em" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=mohfazam&theme=2077" height="180em" />
     </td>
   </tr>
 </table>
 
 ---
+
 
 
 
