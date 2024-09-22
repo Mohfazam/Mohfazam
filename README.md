@@ -1,4 +1,4 @@
-# Hi there 👋, Mohammed Sarwar Khan
+# Hi there 👋, I'm Sarwar
 
 🔭 I’m currently working on Zenith Notes  
 🌱 I’m currently learning JavaScript  
