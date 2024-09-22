@@ -70,9 +70,6 @@
     <td align="center" style="padding: 10px; width: 33%;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" />
     </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&count_private=true&hide=contribs&theme=tokyonight" alt="GitHub Followers" width="350" />
-    </td>
   </tr>
 </table>
 
