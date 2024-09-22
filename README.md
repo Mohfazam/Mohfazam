@@ -49,9 +49,7 @@
 
 ---
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 <table align="center" style="table-layout:fixed; width: 100%; padding: 10px;">
   <tr>
@@ -73,8 +71,8 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" />
     </td>
     <td align="center" style="padding: 10px; width: 33%;">
-      <!-- Wakatime Stats -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohfazam&theme=tokyonight" height="180em" />
+      <!-- GitHub Contributions Badge -->
+      <img src="https://img.shields.io/badge/GitHub-Contributions-brightgreen?style=for-the-badge&logo=github" height="180em" />
     </td>
   </tr>
 </table>
