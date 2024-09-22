@@ -53,10 +53,10 @@
 <div align="center">
 <a href="https://github.com/mohfazam>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohfazamtheme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohfazam&theme=2077" height="180em margin = 1rem" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em margin = 1rem" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohfazam&theme=2077" height="180em margin = 1rem" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em margin = 1rem" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohfazam&theme=2077" height="180em" style="margin = 1rem" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em " style="margin = 1rem"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohfazam&theme=2077" height="180em" style="margin = 1rem"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" style="margin = 1rem" />
 </div>
 ---
 
