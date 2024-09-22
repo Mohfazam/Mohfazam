@@ -52,11 +52,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mohfazam>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohfazamtheme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohfazam&theme=2077" height="180em" style="margin = 1rem" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em " style="margin = 1rem"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohfazam&theme=2077" height="180em" style="margin = 1rem"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" style="margin = 1rem" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohfazamtheme=2077" height="180em" style="table-layout:fixed; width: 100%; padding: 10px;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohfazam&theme=2077" height="180em" style="table-layout:fixed; width: 100%; padding: 10px;"" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em " style="table-layout:fixed; width: 100%; padding: 10px;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohfazam&theme=2077" height="180em" style="table-layout:fixed; width: 100%; padding: 10px;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" style="table-layout:fixed; width: 100%; padding: 10px;" />
 </div>
 ---
 
