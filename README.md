@@ -93,7 +93,7 @@
 ---
 
 ### Certifications:
-- JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
+- C++ Algorithms and Data Structures Certification (freeCodeCamp)
 - Git and GitHub for Beginners (Coursera)
 
 ---
