@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Zenith Notes    
 🌱 I’m currently learning JavaScript  
-👯 I’m looking to collaborate on Zenith Notes and on future projects  
+👯 I’m looking to collaborate on Zenith Notes and on future projects   
 📫 Reach me: mohd.sarwar.code@gmail.com  
 
 ---
