@@ -86,8 +86,8 @@
 ---
 
 ### Featured Projects:
-- [Zenith Notes]((https://zenith-notes.vercel.app/): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
-- [Web Based Crypto Wallet]((https://punk-crypto-wallet.vercel.app/): A web-based crypto wallet with key-pair generation and transaction interface, laying the groundwork for blockchain integration.
+- [Zenith Notes]((https://zenith-notes.vercel.app): A notes-sharing platform for college students with year-wise resources, question banks, and assignments.
+- [Web Based Crypto Wallet]((https://punk-crypto-wallet.vercel.app): A web-based crypto wallet with key-pair generation and transaction interface, laying the groundwork for blockchain integration.
 - [Tic-Tac-Toe](https://github.com/yourrepo/tic-tac-toe): A JavaScript-based Tic-Tac-Toe game with win pattern checks and game reset functionality.
 - - [Tic-Tac-Toe](https://github.com/yourrepo/tic-tac-toe): A JavaScript-based Tic-Tac-Toe game with win pattern checks and game reset functionality.
 
