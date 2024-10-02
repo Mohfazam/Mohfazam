@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" />
-   <img src="https://img.shields.io/badge/Bash-121D33?style=for-the-badge&logo=Bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Bash&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux-121D33?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
