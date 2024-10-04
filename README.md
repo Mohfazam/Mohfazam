@@ -110,7 +110,7 @@
 
 ### Tech Stack:
 - **Frontend**: HTML5, CSS3, JavaScript (React)
-- **Backend**: Node.js (for future projects), Web3.js (for DApp development)
+- **Backend**: Node.js, Express.js. Web3.js (for DApp development)
 - **Version Control**: Git, GitHub
 - **Database**: MongoDB, exploring decentralized storage
 - **Hosting**: Vercel (for deploying projects)
