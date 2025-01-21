@@ -10,7 +10,7 @@
 
 
   
-
+---
 ---
 
 ### About Me
@@ -19,7 +19,6 @@
 - 🚀 Currently building Zenith Notes, a transformative platform for students.
 
 ---
-
 ---
 
 ### 🏆 Achievements:
