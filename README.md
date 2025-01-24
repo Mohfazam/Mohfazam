@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Sarwar
 
-
-
    
 🔭 I’m currently working on Zenith Notes
 🌱 I’m diving deep into the MERN Stack
