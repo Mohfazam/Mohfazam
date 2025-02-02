@@ -19,8 +19,7 @@
 
 #### 🥇 HackRevolution 2025 Winner  
 Secured **1st place** in the prestigious HackRevolution 2025 Hackathon for developing **FlowCare**, a groundbreaking platform designed to revolutionize healthcare data management.  
-
-- 🌐 [FlowCare](https://flow-care.vercel.app/): This platform utilizes the **MERN stack** to provide seamless management of patient records, appointment scheduling, and real-time analytics for healthcare professionals. With an intuitive interface and robust backend, FlowCare stood out for its scalability and potential to transform healthcare workflows.   
+  
 
 ---
 
