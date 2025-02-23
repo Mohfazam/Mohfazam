@@ -128,6 +128,7 @@ A web-based implementation of the classic game with a reset feature and win-dete
 ### Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" />
+   [![trophy](https://github-profile-trophy.vercel.app/?username=mohfazam)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
