@@ -147,8 +147,7 @@ A web-based implementation of the classic game with a reset feature and win-dete
 
 ### GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&no-bg=true&row=2&column=5&title=Stars,Commits,PullRequests,Repositories,Followers,Issues,LongTimeAccount,MultipleOrganizations,Reviews,Achievements" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&no-bg=true&row=1&column=8&title=Stars,Commits,PullRequests,Repositories,Followers,Issues,LongTimeAccount,MultipleOrganizations" alt="GitHub Trophies" />
 </p>
----
 ### Visitors:
 ![Visitors](https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue)
