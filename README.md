@@ -134,13 +134,6 @@ A web-based implementation of the classic game with a reset feature and win-dete
 
 ### GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&no-bg=true&row=1&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
-### GitHub Trophies:
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&no-bg=true&row=1&column=6&title=Stars,Commits,PullRequests,Repositories,Followers,Issues" alt="GitHub Trophies" />
 </p>
 ---
