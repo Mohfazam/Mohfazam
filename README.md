@@ -97,12 +97,45 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
 
 ---
 
-### 💼 Featured Projects:
+#### 💼 Featured Projects:
 
 ### 🧠 SecondBrain – Your Intelligent Knowledge Hub  
-SecondBrain is a smart, personal knowledge management platform designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.  
 
-Built for **students, professionals, and creators**, SecondBrain enhances **productivity and knowledge retention** by ensuring your insights and resources are always at your fingertips. 🚀
+SecondBrain is a **smart, personal knowledge management platform** designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.   
+
+## 🔥 Features  
+✅ **Smart Knowledge Organization** – Capture and tag links, notes, and posts  
+✅ **Instant Search & Retrieval** – Quickly find what you need, when you need it  
+✅ **Cross-Platform Syncing** – Access saved content from any device  
+✅ **Boost Productivity** – Never lose an important idea or resource again  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Bcrypt, JWT 
+--- 
+
+
+### 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
+
+AIDucate transforms **YouTube into an AI-powered classroom**, turning passive videos into **interactive learning modules**. Say goodbye to passive watching and boost retention to **90% (vs. 50%)** with gamified learning that adapts to your pace.   
+
+## 🔥 Features  
+✅ **Interactive Problems & Modules** – Convert videos into hands-on challenges  
+✅ **Gamified Learning** – Stay engaged with adaptive quizzes & achievements  
+✅ **Personalized Learning Paths** – AI tailors content to your progress  
+✅ **Real-Time Skill Insights** – Discover and track trending skills  
+✅ **Market-Ready Expertise** – Gain job-relevant knowledge faster  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI & NLP:** OpenAI API (if applicable)  
+- **Authentication:** Firebase/Auth.js (if used)  
+---
+
 
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
