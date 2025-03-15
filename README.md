@@ -18,8 +18,10 @@
 ### 🏆 Achievements:
 
 #### 🥇 HackRevolution 2025 Winner  
-Secured **1st place** in the prestigious HackRevolution 2025 Hackathon for developing **FlowCare**, a groundbreaking platform designed to revolutionize healthcare data management.  
-  
+Secured 1st place in the prestigious HackRevolution 2025 Hackathon, competing against 280+ teams and emerging as the top innovator.
+
+#### 🥇 Hackforge 2025 Winner  
+Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—all while managing semester exams.
 
 ---
 
