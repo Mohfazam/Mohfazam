@@ -244,7 +244,6 @@ A centralized platform empowering college students with access to academic resou
   - **Frontend**: Vercel  
   - **Backend**: Vercel, Digital Ocean
   - **Databases**: Neon (for PostgreSQL)  
-- **Other Technologies**: Docker (for containerization), Redis (for caching)  
 
 ---
 
