@@ -99,17 +99,17 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
 
 ### 💼 Featured Projects:
 
-#### 🧠 SecondBrain – Your Intelligent Knowledge Hub  
+## 🧠 SecondBrain – Your Intelligent Knowledge Hub  
 
 SecondBrain is a **smart, personal knowledge management platform** designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.   
 
-## 🔥 Features  
+### 🔥 Features  
 ✅ **Smart Knowledge Organization** – Capture and tag links, notes, and posts  
 ✅ **Instant Search & Retrieval** – Quickly find what you need, when you need it  
 ✅ **Cross-Platform Syncing** – Access saved content from any device  
 ✅ **Boost Productivity** – Never lose an important idea or resource again  
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
@@ -117,18 +117,18 @@ SecondBrain is a **smart, personal knowledge management platform** designed to *
 --- 
 
 
-#### 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
+## 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
 
 AIDucate transforms **YouTube into an AI-powered classroom**, turning passive videos into **interactive learning modules**. Say goodbye to passive watching and boost retention to **90% (vs. 50%)** with gamified learning that adapts to your pace.   
 
-## 🔥 Features  
+### 🔥 Features  
 ✅ **Interactive Problems & Modules** – Convert videos into hands-on challenges  
 ✅ **Gamified Learning** – Stay engaged with adaptive quizzes & achievements  
 ✅ **Personalized Learning Paths** – AI tailors content to your progress  
 ✅ **Real-Time Skill Insights** – Discover and track trending skills  
 ✅ **Market-Ready Expertise** – Gain job-relevant knowledge faster  
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
@@ -136,25 +136,25 @@ AIDucate transforms **YouTube into an AI-powered classroom**, turning passive vi
 - **Authentication:** FBcrypt, JWT, Zod  
 ---
 
-#### 🚀 [MediConnect](https://medi-connect-delta.vercel.app/)  
+## 🚀 [MediConnect](https://medi-connect-delta.vercel.app/)  
  – Your Complete Medication Management Solution  
 
 MediConnect is an **AI-powered platform** designed to **streamline medication management** through **prescription analysis, cost comparisons, educational resources, and 24/7 chatbot support**.  
 
-## 🌟 Features  
+### 🌟 Features  
 ✅ **Prescription Analyzer** – AI detects potential drug interactions and side effects  
 ✅ **Drug Cost Analyzer** – Compare medication prices and find affordable alternatives  
 ✅ **Serious Medication Info** – Get insights into high-risk medications and safe management  
 ✅ **MedEd** – Access comprehensive educational resources on medications and treatments  
 ✅ **Med-Related Chatbot** – 24/7 AI-powered assistant for medication-related queries  
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **Frontend:** React.js, Vite, Tailwind CSS  
 - **Backend:** Express.js, Node.js  
 - **Database:** MongoDB  
 - **AI Integration:** Googl's DeepMind OCR API
 
-## 📌 How It Works  
+### 📌 How It Works  
 1️⃣ **Analyze Prescription** – Upload your prescription for AI-powered analysis  
 2️⃣ **Compare Costs** – Find cost-effective medication alternatives  
 3️⃣ **Learn & Understand** – Access detailed medication information  
@@ -162,12 +162,12 @@ MediConnect is an **AI-powered platform** designed to **streamline medication ma
 
 ---
 
-#### 🌸 [FlowCare](https://flow-care.vercel.app/) – Empowering Women, One Cycle at a Time  
+## 🌸 [FlowCare](https://flow-care.vercel.app/) – Empowering Women, One Cycle at a Time  
 
 FlowCare is an **interactive platform** designed to **educate, empower, and support** young girls (ages 13-25) in managing their **menstrual health and hygiene**. Our mission is to **normalize conversations around menstruation** and provide a **safe, informative, and supportive** environment with education, tracking tools, expert guidance, and community support—all in one place.  
 
 
-## 🚀 Key Features  
+### 🚀 Key Features  
 
 ### 📖 Educational Hub  
 - **Interactive Learning Modules** – Gamified lessons on menstrual health, hygiene, and myths  
@@ -196,15 +196,14 @@ FlowCare is an **interactive platform** designed to **educate, empower, and supp
 - **AI-Powered Insights** – Custom recommendations based on tracking data  
 - **Health Tips** – Personalized guidance for managing symptoms and improving menstrual health  
 
----
+--
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **Frontend:** React.js, Vite, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **AI Integration:** AI-driven insights and chatbot support  
 
----
 
 ## 📚 User Flow  
 1️⃣ **Signup/Onboarding** – Users create an account and enter basic health details  
