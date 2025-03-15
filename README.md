@@ -228,14 +228,17 @@ A centralized platform empowering college students with access to academic resou
 
 ---
 
-### Tech Stack:
-- **Frontend**: HTML5, CSS3, JavaScript (React), TypeScript  
+### 🛠️ Tech Stack:
+- **Frontend**: HTML5, CSS3, JavaScript (React), TypeScript, Tailwind CSS  
 - **Backend**: Node.js, Express.js, FastAPI, Web3.js (for DApp development)  
 - **State Management**: Recoil  
 - **Validation**: Zod  
+- **Database**: MongoDB, exploring decentralized storage solutions  
 - **Version Control**: Git, GitHub  
-- **Database**: MongoDB, exploring decentralized storage  
-- **Hosting**: Vercel (for deploying projects), Render (for backend services)  
+- **Hosting**:  
+  - **Frontend**: Vercel  
+  - **Backend**: Vercel, Digital Ocean  
+ 
 
 ---
 
