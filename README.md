@@ -97,9 +97,9 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
 
 ---
 
-#### 💼 Featured Projects:
+### 💼 Featured Projects:
 
-### 🧠 SecondBrain – Your Intelligent Knowledge Hub  
+#### 🧠 SecondBrain – Your Intelligent Knowledge Hub  
 
 SecondBrain is a **smart, personal knowledge management platform** designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.   
 
@@ -117,7 +117,7 @@ SecondBrain is a **smart, personal knowledge management platform** designed to *
 --- 
 
 
-### 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
+#### 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
 
 AIDucate transforms **YouTube into an AI-powered classroom**, turning passive videos into **interactive learning modules**. Say goodbye to passive watching and boost retention to **90% (vs. 50%)** with gamified learning that adapts to your pace.   
 
