@@ -132,8 +132,8 @@ AIDucate transforms **YouTube into an AI-powered classroom**, turning passive vi
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **AI & NLP:** OpenAI API (if applicable)  
-- **Authentication:** Firebase/Auth.js (if used)  
+- **AI & NLP:** Gemini API  
+- **Authentication:** FBcrypt, JWT, Zod  
 ---
 
 
