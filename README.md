@@ -99,10 +99,8 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
 
 ### 💼 Featured Projects:
 
-#### 🌐 [FlowCare](https://flow-care.vercel.app/)  
-A revolutionary healthcare data management platform developed using the **MERN stack**. FlowCare provides seamless management of patient records, appointment scheduling, and real-time analytics for healthcare professionals. Its intuitive interface and scalable backend deliver a transformative experience for healthcare workflows.  
-- **Key Features**: Real-time analytics, secure patient data storage, robust appointment scheduling system.  
-- **Tech Stack**: MongoDB, Express, React, Node.js.
+#### 🌐 [Second Brain]  
+SecondBrain: Platform An intelligent personal knowledge hub to save and manage your valuable information. Capture links, posts, and notes from different platforms, categorize them with tags, and access everything in one organized, searchable space. Designed for students, professionals, and creators to streamline productivity and knowledge retention
 
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
