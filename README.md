@@ -93,14 +93,6 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em" />
     </td>
   </tr>
-<!--   <tr>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohfazam&theme=2077" height="180em" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohfazam&theme=2077" height="180em" />
-    </td>
-  </tr> -->
 </table>
 
 ---
