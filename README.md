@@ -136,6 +136,32 @@ AIDucate transforms **YouTube into an AI-powered classroom**, turning passive vi
 - **Authentication:** FBcrypt, JWT, Zod  
 ---
 
+#### 🚀 [MediConnect]([<your-live-link-here>](https://medi-connect-delta.vercel.app/))  
+ – Your Complete Medication Management Solution  
+
+MediConnect is an **AI-powered platform** designed to **streamline medication management** through **prescription analysis, cost comparisons, educational resources, and 24/7 chatbot support**.  
+
+🔗 **Live Demo:** 
+## 🌟 Features  
+✅ **Prescription Analyzer** – AI detects potential drug interactions and side effects  
+✅ **Drug Cost Analyzer** – Compare medication prices and find affordable alternatives  
+✅ **Serious Medication Info** – Get insights into high-risk medications and safe management  
+✅ **MedEd** – Access comprehensive educational resources on medications and treatments  
+✅ **Med-Related Chatbot** – 24/7 AI-powered assistant for medication-related queries  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Backend:** Express.js, Node.js  
+- **Database:** MongoDB  
+- **AI Integration:** Googl's DeepMind OCR API
+
+## 📌 How It Works  
+1️⃣ **Analyze Prescription** – Upload your prescription for AI-powered analysis  
+2️⃣ **Compare Costs** – Find cost-effective medication alternatives  
+3️⃣ **Learn & Understand** – Access detailed medication information  
+4️⃣ **24/7 Chatbot Support** – Get instant assistance anytime  
+
+---
 
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
