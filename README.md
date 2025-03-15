@@ -162,6 +162,61 @@ MediConnect is an **AI-powered platform** designed to **streamline medication ma
 
 ---
 
+#### 🌸 [FlowCare](https://flow-care.vercel.app/) – Empowering Women, One Cycle at a Time  
+
+FlowCare is an **interactive platform** designed to **educate, empower, and support** young girls (ages 13-25) in managing their **menstrual health and hygiene**. Our mission is to **normalize conversations around menstruation** and provide a **safe, informative, and supportive** environment with education, tracking tools, expert guidance, and community support—all in one place.  
+
+
+## 🚀 Key Features  
+
+### 📖 Educational Hub  
+- **Interactive Learning Modules** – Gamified lessons on menstrual health, hygiene, and myths  
+- **FAQs & Articles** – Expert-verified content on PMS, emotional health, and period management  
+- **Videos & Animations** – Visually engaging explanations of anatomy and menstrual health best practices  
+
+### 📅 Cycle Tracker  
+- **Modern Tracker** – Log periods, ovulation, and symptoms effortlessly  
+- **Notifications** – Alerts for upcoming periods, fertile windows, and PMS days  
+- **Symptom Logging** – Track mood swings, cramps, and overall health  
+
+### 🗣️ Forum & Community Support  
+- **Anonymous Discussions** – A safe space for open conversations and peer advice  
+- **Expert Moderation** – Verified health professionals ensuring accurate and helpful discussions  
+
+### 👩‍⚕️ Expert Consultation  
+- **Telemedicine Integration** – Chat or video consultations with gynecologists  
+- **Q&A Submissions** – Submit questions and receive expert answers  
+
+### 🛍️ E-Commerce Section  
+- **Curated Marketplace** – Explore menstrual products like pads, tampons, and menstrual cups  
+- **Eco-Friendly Options** – Recommendations for sustainable menstrual products  
+- **Discreet Delivery** – Private and secure shipping for all products  
+
+### 🔥 Personalized Dashboard  
+- **AI-Powered Insights** – Custom recommendations based on tracking data  
+- **Health Tips** – Personalized guidance for managing symptoms and improving menstrual health  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI Integration:** AI-driven insights and chatbot support  
+
+---
+
+## 📚 User Flow  
+1️⃣ **Signup/Onboarding** – Users create an account and enter basic health details  
+2️⃣ **Dashboard** – Personalized trackers, insights, and educational content  
+3️⃣ **Education Hub** – Access gamified lessons, FAQs, and video resources  
+4️⃣ **Cycle Tracker** – Log periods, symptoms, and receive health notifications  
+5️⃣ **Community Forum** – Engage in safe, anonymous discussions with peers and experts  
+6️⃣ **Expert Consultations** – Book chat or video calls with medical professionals  
+7️⃣ **E-Commerce** – Browse and purchase menstrual products with personalized recommendations  
+
+---
+
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
 - **Key Features**: Searchable notes repository, streamlined navigation, and responsive design.  
