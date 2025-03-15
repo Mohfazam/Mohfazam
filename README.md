@@ -233,12 +233,18 @@ A centralized platform empowering college students with access to academic resou
 - **Backend**: Node.js, Express.js, FastAPI, Web3.js (for DApp development)  
 - **State Management**: Recoil  
 - **Validation**: Zod  
-- **Database**: MongoDB, exploring decentralized storage solutions  
+- **Database**:  
+  - **SQL**: PostgreSQL (with Prisma ORM)  
+  - **NoSQL**: MongoDB  
+  - **Decentralized Storage**: Exploring solutions like IPFS/Filecoin  
+- **Authentication**: JWT, OAuth  
+- **Realtime & Web**: WebSockets, WebRTC  
 - **Version Control**: Git, GitHub  
 - **Hosting**:  
   - **Frontend**: Vercel  
-  - **Backend**: Vercel, Digital Ocean  
- 
+  - **Backend**: Vercel, Digital Ocean
+  - **Databases**: Neon (for PostgreSQL)  
+- **Other Technologies**: Docker (for containerization), Redis (for caching)  
 
 ---
 
