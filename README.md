@@ -196,8 +196,6 @@ FlowCare is an **interactive platform** designed to **educate, empower, and supp
 - **AI-Powered Insights** – Custom recommendations based on tracking data  
 - **Health Tips** – Personalized guidance for managing symptoms and improving menstrual health  
 
---
-
 ### 🛠️ Tech Stack  
 - **Frontend:** React.js, Vite, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
@@ -205,7 +203,7 @@ FlowCare is an **interactive platform** designed to **educate, empower, and supp
 - **AI Integration:** AI-driven insights and chatbot support  
 
 
-## 📚 User Flow  
+### 📚 User Flow  
 1️⃣ **Signup/Onboarding** – Users create an account and enter basic health details  
 2️⃣ **Dashboard** – Personalized trackers, insights, and educational content  
 3️⃣ **Education Hub** – Access gamified lessons, FAQs, and video resources  
@@ -216,7 +214,7 @@ FlowCare is an **interactive platform** designed to **educate, empower, and supp
 
 ---
 
-#### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
+## 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
 - **Key Features**: Searchable notes repository, streamlined navigation, and responsive design.  
 - **Tech Stack**: HTML, CSS, JavaScript.
