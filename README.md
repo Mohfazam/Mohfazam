@@ -136,7 +136,7 @@ AIDucate transforms **YouTube into an AI-powered classroom**, turning passive vi
 - **Authentication:** FBcrypt, JWT, Zod  
 ---
 
-#### 🚀 [MediConnect]([<your-live-link-here>](https://medi-connect-delta.vercel.app/))  
+#### 🚀 [MediConnect](https://medi-connect-delta.vercel.app/)  
  – Your Complete Medication Management Solution  
 
 MediConnect is an **AI-powered platform** designed to **streamline medication management** through **prescription analysis, cost comparisons, educational resources, and 24/7 chatbot support**.  
