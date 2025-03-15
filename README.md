@@ -141,7 +141,6 @@ AIDucate transforms **YouTube into an AI-powered classroom**, turning passive vi
 
 MediConnect is an **AI-powered platform** designed to **streamline medication management** through **prescription analysis, cost comparisons, educational resources, and 24/7 chatbot support**.  
 
-🔗 **Live Demo:** 
 ## 🌟 Features  
 ✅ **Prescription Analyzer** – AI detects potential drug interactions and side effects  
 ✅ **Drug Cost Analyzer** – Compare medication prices and find affordable alternatives  
@@ -166,21 +165,6 @@ MediConnect is an **AI-powered platform** designed to **streamline medication ma
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
 - **Key Features**: Searchable notes repository, streamlined navigation, and responsive design.  
-- **Tech Stack**: HTML, CSS, JavaScript.
-
-#### 🛠️ Custom CLI  
-Developed a command-line tool with functionalities like counting file lines, converting text to uppercase, and more.  
-- **Key Features**: Simple yet powerful utility for developers.  
-- **Tech Stack**: Node.js.
-
-#### 🎨 Color Picker  
-A React-based color picker tool designed to help users select, copy, and manage color palettes effortlessly.  
-- **Key Features**: Palette storage, responsive design, real-time color preview.  
-- **Tech Stack**: React.
-
-#### 🎮 Tic Tac Toe  
-A web-based implementation of the classic game with a reset feature and win-detection logic.  
-- **Key Features**: Interactive gameplay, clean UI, and dynamic win detection.  
 - **Tech Stack**: HTML, CSS, JavaScript.
 
 ---
