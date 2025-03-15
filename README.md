@@ -99,8 +99,10 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
 
 ### 💼 Featured Projects:
 
-#### 🌐 [Second Brain]  
-SecondBrain: Platform An intelligent personal knowledge hub to save and manage your valuable information. Capture links, posts, and notes from different platforms, categorize them with tags, and access everything in one organized, searchable space. Designed for students, professionals, and creators to streamline productivity and knowledge retention
+### 🧠 SecondBrain – Your Intelligent Knowledge Hub  
+SecondBrain is a smart, personal knowledge management platform designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.  
+
+Built for **students, professionals, and creators**, SecondBrain enhances **productivity and knowledge retention** by ensuring your insights and resources are always at your fingertips. 🚀
 
 #### 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
 A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
