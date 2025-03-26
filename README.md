@@ -265,7 +265,7 @@ A centralized platform empowering college students with access to academic resou
 
 ### GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohfazam&theme=algolia&no-bg=true&row=1&column=6&title=Stars,Commits,PullRequests,Repositories,Followers,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=mohfazam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </p>
 
 ---
