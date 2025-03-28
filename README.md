@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Sarwar
 
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mohfazam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
@@ -7,11 +9,19 @@
 ---
 
 ### About Me
-- 🔭 Working on **Zenith Notes**
-- 🌱 Mastering the **MERN Stack**
-- 👯 Open to collaborate on **Zenith Notes** and innovative projects
-- 📫 Email: **mohd.sarwar.code@gmail.com**
-- 💻 Web Developer | 🌐 Web3 Enthusiast | 🚀 Building transformative tools
+<p align="center">
+  <img src="https://img.shields.io/badge/They%20think%20I%E2%80%99m%20hiding%20in%20the%20shadows,%20but%20I%E2%80%99m%20the%20shadows-121212?style=for-the-badge&logo=batman&logoColor=yellow" alt="Batman Quote" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dd9BKxEiGPY5pw6kVi/giphy.gif?cid=ecf05e47zci9497cn592kvavof9foua5hzxs08gh0ph1u20j&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Batman GIF" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dark%20Knight%20Coder-0F0E0E?style=for-the-badge&logo=batman&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Shadows%20Are%20Me-1A1A1A?style=for-the-badge&logo=moon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gotham%27s%20Debugger-12100E?style=for-the-badge&logo=shield&logoColor=FFD700" />
+</p>
 
 ---
 
@@ -113,6 +123,11 @@ Centralized platform for college students with scalable academic tools.
 
 ---
 
+### Fun Fact
+- 🎮 I once debugged a project while sleep-deprived and accidentally turned it into a mini-game—best bug ever!
+
+---
+
 ### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" width="600" />
@@ -120,6 +135,10 @@ Centralized platform for college students with scalable academic tools.
 
 ---
 
+### Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Visitors" />
+</p>
 
 ### Visitors:
 ![Visitors](https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue)
