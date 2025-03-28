@@ -123,11 +123,6 @@ Centralized platform for college students with scalable academic tools.
 
 ---
 
-### Fun Fact
-- 🎮 I once debugged a project while sleep-deprived and accidentally turned it into a mini-game—best bug ever!
-
----
-
 ### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" width="600" />
@@ -135,10 +130,6 @@ Centralized platform for college students with scalable academic tools.
 
 ---
 
-### Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Visitors" />
-</p>
 
 ### Visitors:
 ![Visitors](https://komarev.com/ghpvc/?username=mohfazam&label=PROFILE+VIEWS&style=flat-square&color=blue)
