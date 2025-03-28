@@ -1,39 +1,29 @@
 # Hi there 👋, I'm Sarwar
-###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohfazam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  
+  <img src="https://github-profile-trophy.vercel.app?username=mohfazam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
-###
-
-   
-🔭 I’m currently working on Zenith Notes
-🌱 I’m diving deep into the MERN Stack
-👯 I’m looking to collaborate on Zenith Notes and other innovative projects
-📫 Reach me: mohd.sarwar.code@gmail.com
-
---- 
+---
 
 ### About Me
-- 💻 Web Developer with a knack for creative problem-solving.
-- 🌐 Enthusiastically exploring Web3 and the Blockchain ecosystem.
-- 🚀 Currently building Zenith Notes, a transformative platform for students.(439)
+- 🔭 Working on **Zenith Notes**
+- 🌱 Mastering the **MERN Stack**
+- 👯 Open to collaborate on **Zenith Notes** and innovative projects
+- 📫 Email: **mohd.sarwar.code@gmail.com**
+- 💻 Web Developer | 🌐 Web3 Enthusiast | 🚀 Building transformative tools
 
 ---
 
-### 🏆 Achievements:
-
-#### 🥇 HackRevolution 2025 Winner  
-Secured 1st place in the prestigious HackRevolution 2025 Hackathon, competing against 280+ teams and emerging as the top innovator.
-
-#### 🥇 Hackforge 2025 Winner  
-Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—all while managing semester exams.
+### 🏆 Achievements
+- **🥇 HackRevolution 2025 Winner**  
+  1st place among 280+ teams in a top-tier hackathon.
+- **🥇 Hackforge 2025 Winner**  
+  Topped 180+ teams while juggling semester exams.
 
 ---
 
-### Languages, Tools, and Technologies:
+### Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -66,214 +56,69 @@ Achieved 1st place in the Hackforge 2025 Hackathon, outperforming 180+ teams—a
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
+---
 
-
-
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+</div>
 
 ---
 
+### Featured Projects
 
-### GitHub Stats:
+#### 🧠 [SecondBrain](https://example.com) – Intelligent Knowledge Hub  
+A smart platform to capture, organize, and retrieve information effortlessly.  
+- **Features**: Smart tagging, instant search, cross-platform sync.  
+- **Tech**: React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT.
 
-<table align="center" style="table-layout:fixed; width: 100%; padding: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohfazam&show_icons=true&theme=tokyonight" alt="Mohfazam's GitHub stats" width="350" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohfazam&theme=tokyonight" alt="Mohfazam's GitHub Streak" width="350" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
-    </td>
-  </tr>
-</table>
+#### 🎓 [AIDucate](https://edu-play-nine.vercel.app/) – AI-Powered Learning  
+Transforms YouTube videos into interactive, gamified learning modules.  
+- **Features**: Adaptive quizzes, personalized paths, skill insights.  
+- **Tech**: React, Tailwind CSS, Node.js, MongoDB, Gemini API.
 
----
+#### 🚀 [MediConnect](https://medi-connect-delta.vercel.app/) – Medication Management  
+AI-driven tool for prescription analysis, cost comparison, and education.  
+- **Features**: Drug interaction detection, chatbot support, MedEd resources.  
+- **Tech**: React, Vite, Tailwind CSS, Express.js, MongoDB, DeepMind OCR.
 
-<h3 align="center">Statistics</h3>
+#### 🌸 [FlowCare](https://flow-care.vercel.app/) – Menstrual Health Platform  
+Empowers young girls with education, tracking, and support for menstrual health.  
+- **Features**: Cycle tracker, educational hub, expert consultations, community forum.  
+- **Tech**: React, Vite, Tailwind CSS, Node.js, MongoDB, AI insights.
 
-<table align="center" style="table-layout:fixed; width: 100%; padding: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohfazam&theme=2077" height="180em" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohfazam&theme=2077" height="180em" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohfazam&theme=2077" height="180em" />
-    </td>
-  </tr>
-</table>
+#### 📚 [Zenith Notes](https://zenith-notes.vercel.app/) – Student Resource Hub  
+Centralized platform for college students with scalable academic tools.  
+- **Features**: Searchable notes, responsive design.  
+- **Tech**: HTML, CSS, JavaScript.
 
 ---
 
-### 💼 Featured Projects:
-
-## 🧠 SecondBrain – Your Intelligent Knowledge Hub  
-
-SecondBrain is a **smart, personal knowledge management platform** designed to **capture, organize, and retrieve** valuable information effortlessly. Save links, posts, and notes from multiple platforms, categorize them with tags, and access everything in one **centralized, searchable space**.   
-
-### 🔥 Features  
-✅ **Smart Knowledge Organization** – Capture and tag links, notes, and posts  
-✅ **Instant Search & Retrieval** – Quickly find what you need, when you need it  
-✅ **Cross-Platform Syncing** – Access saved content from any device  
-✅ **Boost Productivity** – Never lose an important idea or resource again  
-
-### 🛠️ Tech Stack  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Authentication:** Bcrypt, JWT 
---- 
-
-
-## 🎓 [AIDucate](https://edu-play-nine.vercel.app/)  – AI-Powered Interactive Learning  
-
-AIDucate transforms **YouTube into an AI-powered classroom**, turning passive videos into **interactive learning modules**. Say goodbye to passive watching and boost retention to **90% (vs. 50%)** with gamified learning that adapts to your pace.   
-
-### 🔥 Features  
-✅ **Interactive Problems & Modules** – Convert videos into hands-on challenges  
-✅ **Gamified Learning** – Stay engaged with adaptive quizzes & achievements  
-✅ **Personalized Learning Paths** – AI tailors content to your progress  
-✅ **Real-Time Skill Insights** – Discover and track trending skills  
-✅ **Market-Ready Expertise** – Gain job-relevant knowledge faster  
-
-### 🛠️ Tech Stack  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **AI & NLP:** Gemini API  
-- **Authentication:** FBcrypt, JWT, Zod  
----
-
-## 🚀 [MediConnect](https://medi-connect-delta.vercel.app/)  
- – Your Complete Medication Management Solution  
-
-MediConnect is an **AI-powered platform** designed to **streamline medication management** through **prescription analysis, cost comparisons, educational resources, and 24/7 chatbot support**.  
-
-### 🌟 Features  
-✅ **Prescription Analyzer** – AI detects potential drug interactions and side effects  
-✅ **Drug Cost Analyzer** – Compare medication prices and find affordable alternatives  
-✅ **Serious Medication Info** – Get insights into high-risk medications and safe management  
-✅ **MedEd** – Access comprehensive educational resources on medications and treatments  
-✅ **Med-Related Chatbot** – 24/7 AI-powered assistant for medication-related queries  
-
-### 🛠️ Tech Stack  
-- **Frontend:** React.js, Vite, Tailwind CSS  
-- **Backend:** Express.js, Node.js  
-- **Database:** MongoDB  
-- **AI Integration:** Googl's DeepMind OCR API
-
-### 📌 How It Works  
-1️⃣ **Analyze Prescription** – Upload your prescription for AI-powered analysis  
-2️⃣ **Compare Costs** – Find cost-effective medication alternatives  
-3️⃣ **Learn & Understand** – Access detailed medication information  
-4️⃣ **24/7 Chatbot Support** – Get instant assistance anytime  
-
----
-
-## 🌸 [FlowCare](https://flow-care.vercel.app/) – Empowering Women, One Cycle at a Time  
-
-FlowCare is an **interactive platform** designed to **educate, empower, and support** young girls (ages 13-25) in managing their **menstrual health and hygiene**. Our mission is to **normalize conversations around menstruation** and provide a **safe, informative, and supportive** environment with education, tracking tools, expert guidance, and community support—all in one place.  
-
-
-### 🚀 Key Features  
-
-### 📖 Educational Hub  
-- **Interactive Learning Modules** – Gamified lessons on menstrual health, hygiene, and myths  
-- **FAQs & Articles** – Expert-verified content on PMS, emotional health, and period management  
-- **Videos & Animations** – Visually engaging explanations of anatomy and menstrual health best practices  
-
-### 📅 Cycle Tracker  
-- **Modern Tracker** – Log periods, ovulation, and symptoms effortlessly  
-- **Notifications** – Alerts for upcoming periods, fertile windows, and PMS days  
-- **Symptom Logging** – Track mood swings, cramps, and overall health  
-
-### 🗣️ Forum & Community Support  
-- **Anonymous Discussions** – A safe space for open conversations and peer advice  
-- **Expert Moderation** – Verified health professionals ensuring accurate and helpful discussions  
-
-### 👩‍⚕️ Expert Consultation  
-- **Telemedicine Integration** – Chat or video consultations with gynecologists  
-- **Q&A Submissions** – Submit questions and receive expert answers  
-
-### 🛍️ E-Commerce Section  
-- **Curated Marketplace** – Explore menstrual products like pads, tampons, and menstrual cups  
-- **Eco-Friendly Options** – Recommendations for sustainable menstrual products  
-- **Discreet Delivery** – Private and secure shipping for all products  
-
-### 🔥 Personalized Dashboard  
-- **AI-Powered Insights** – Custom recommendations based on tracking data  
-- **Health Tips** – Personalized guidance for managing symptoms and improving menstrual health  
-
-### 🛠️ Tech Stack  
-- **Frontend:** React.js, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **AI Integration:** AI-driven insights and chatbot support  
-
-
-### 📚 User Flow  
-1️⃣ **Signup/Onboarding** – Users create an account and enter basic health details  
-2️⃣ **Dashboard** – Personalized trackers, insights, and educational content  
-3️⃣ **Education Hub** – Access gamified lessons, FAQs, and video resources  
-4️⃣ **Cycle Tracker** – Log periods, symptoms, and receive health notifications  
-5️⃣ **Community Forum** – Engage in safe, anonymous discussions with peers and experts  
-6️⃣ **Expert Consultations** – Book chat or video calls with medical professionals  
-7️⃣ **E-Commerce** – Browse and purchase menstrual products with personalized recommendations  
-
----
-
-## 📚 [Zenith Notes](https://zenith-notes.vercel.app/)  
-A centralized platform empowering college students with access to academic resources, including study materials, question banks, and assignments. Built with future scalability in mind.  
-- **Key Features**: Searchable notes repository, streamlined navigation, and responsive design.  
-- **Tech Stack**: HTML, CSS, JavaScript.
-
----
-
-### Programming Profiles:
-- [LeetCode](https://leetcode.com/Mohfazam): 100+ problems solved.
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile): Consistent problem-solving with various algorithms.
-- [CodeForces](https://codeforces.com/profile/mohfazam): 850+ rating on CodeForces.
-
----
-
-### 🛠️ Tech Stack:
+### Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (React), TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express.js, FastAPI, Web3.js (for DApp development)  
-- **State Management**: Recoil  
-- **Validation**: Zod  
-- **Database**:  
-  - **SQL**: PostgreSQL (with Prisma ORM)  
-  - **NoSQL**: MongoDB  
-  - **Decentralized Storage**: Exploring solutions like IPFS/Filecoin  
-- **Authentication**: JWT, OAuth  
-- **Realtime & Web**: WebSockets, WebRTC  
-- **Version Control**: Git, GitHub  
-- **Hosting**:  
-  - **Frontend**: Vercel  
-  - **Backend**: Vercel, Digital Ocean
-  - **Databases**: Neon (for PostgreSQL)  
+- **Backend**: Node.js, Express.js, FastAPI, Web3.js  
+- **State**: Recoil | **Validation**: Zod  
+- **Database**: PostgreSQL (Prisma), MongoDB, IPFS/Filecoin  
+- **Auth**: JWT, OAuth | **Realtime**: WebSockets, WebRTC  
+- **Tools**: Git, GitHub, Vercel, Digital Ocean, Neon  
 
 ---
 
+### Coding Profiles
+- [LeetCode](https://leetcode.com/Mohfazam) – 100+ problems  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile) – Algorithm enthusiast  
+- [CodeForces](https://codeforces.com/profile/mohfazam) – 850+ rating  
 
-### Contribution Graph:
+---
+
+### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohfazam&theme=tokyo-night" alt="Contribution Graph" width="600" />
 </p>
 
 ---
-
-### GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohfazam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</p>
-
----
-
 
 
 ### Visitors:
