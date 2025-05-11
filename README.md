@@ -88,15 +88,18 @@
 
 ### Featured Projects
 
-#### 🧠 [SecondBrain](https://example.com) – Intelligent Knowledge Hub  
-A smart platform to capture, organize, and retrieve information effortlessly.  
-- **Features**: Smart tagging, instant search, cross-platform sync.  
-- **Tech**: React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT.
-
 #### 🎓 [AIDucate](https://edu-play-nine.vercel.app/) – AI-Powered Learning  
 Transforms YouTube videos into interactive, gamified learning modules.  
 - **Features**: Adaptive quizzes, personalized paths, skill insights.  
 - **Tech**: React, Tailwind CSS, Node.js, MongoDB, Gemini API.
+
+- #### 🔍 [WebLenses](https://github.com/YourUsername/WebLenses) – Collaborative QA Overlay  
+Revolutionizes QA testing by applying version-control principles to DOM evolution with an automated, real-time overlay for developers and testers.  
+- **Tech:** TypeScript, React, FastAPI
+
+#### 🛡️ [QuickPhish](https://github.com/YourUsername/QuickPhish) – Anti-Phishing Browser Extension  
+A privacy-first Chrome/Edge extension that detects phishing links in real time—anywhere on the web (Gmail, social media, forums, etc.).  
+- **Tech:** TypeScript, WebExtension API
 
 #### 🚀 [MediConnect](https://medi-connect-delta.vercel.app/) – Medication Management  
 AI-driven tool for prescription analysis, cost comparison, and education.  
