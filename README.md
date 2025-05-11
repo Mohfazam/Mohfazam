@@ -71,7 +71,7 @@
 
 ### Coding Profiles
 - [LeetCode](https://leetcode.com/Mohfazam) – 100+ problems  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile) – Algorithm enthusiast  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile) – 150+
 - [CodeForces](https://codeforces.com/profile/mohfazam) – 850+ rating  
 
 ---
