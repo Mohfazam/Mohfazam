@@ -93,11 +93,11 @@ Transforms YouTube videos into interactive, gamified learning modules.
 - **Features**: Adaptive quizzes, personalized paths, skill insights.  
 - **Tech**: React, Tailwind CSS, Node.js, MongoDB, Gemini API.
 
-- #### 🔍 [WebLenses](https://github.com/YourUsername/WebLenses) – Collaborative QA Overlay  
+- #### 🔍 [WebLenses](https://github.com/Mohfazam/WebLenses) – Collaborative QA Overlay  
 Revolutionizes QA testing by applying version-control principles to DOM evolution with an automated, real-time overlay for developers and testers.  
 - **Tech:** TypeScript, React, FastAPI
 
-#### 🛡️ [QuickPhish](https://github.com/YourUsername/QuickPhish) – Anti-Phishing Browser Extension  
+#### 🛡️ [QuickPhish](https://github.com/Mohfazam/QuickPhish) – Anti-Phishing Browser Extension  
 A privacy-first Chrome/Edge extension that detects phishing links in real time—anywhere on the web (Gmail, social media, forums, etc.).  
 - **Tech:** TypeScript, WebExtension API
 
