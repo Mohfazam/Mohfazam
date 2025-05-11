@@ -84,17 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfazam&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </div>
 
----
-
-### Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript (React), TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express.js, FastAPI, Web3.js  
-- **State**: Recoil | **Validation**: Zod  
-- **Database**: PostgreSQL (Prisma), MongoDB, IPFS/Filecoin  
-- **Auth**: JWT, OAuth | **Realtime**: WebSockets, WebRTC  
-- **Tools**: Git, GitHub, Vercel, Digital Ocean, Neon  
-
----
 
 ### Coding Profiles
 - [LeetCode](https://leetcode.com/Mohfazam) – 100+ problems  
