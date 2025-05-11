@@ -86,38 +86,6 @@
 
 ---
 
-### Featured Projects
-
-#### 🎓 [AIDucate](https://edu-play-nine.vercel.app/) – AI-Powered Learning  
-Transforms YouTube videos into interactive, gamified learning modules.  
-- **Features**: Adaptive quizzes, personalized paths, skill insights.  
-- **Tech**: React, Tailwind CSS, Node.js, MongoDB, Gemini API.
-
-- #### 🔍 [WebLenses](https://github.com/Mohfazam/WebLenses) – Collaborative QA Overlay  
-Revolutionizes QA testing by applying version-control principles to DOM evolution with an automated, real-time overlay for developers and testers.  
-- **Tech:** TypeScript, React, FastAPI
-
-#### 🛡️ [QuickPhish](https://github.com/Mohfazam/QuickPhish) – Anti-Phishing Browser Extension  
-A privacy-first Chrome/Edge extension that detects phishing links in real time—anywhere on the web (Gmail, social media, forums, etc.).  
-- **Tech:** TypeScript, WebExtension API
-
-#### 🚀 [MediConnect](https://medi-connect-delta.vercel.app/) – Medication Management  
-AI-driven tool for prescription analysis, cost comparison, and education.  
-- **Features**: Drug interaction detection, chatbot support, MedEd resources.  
-- **Tech**: React, Vite, Tailwind CSS, Express.js, MongoDB, DeepMind OCR.
-
-#### 🌸 [FlowCare](https://flow-care.vercel.app/) – Menstrual Health Platform  
-Empowers young girls with education, tracking, and support for menstrual health.  
-- **Features**: Cycle tracker, educational hub, expert consultations, community forum.  
-- **Tech**: React, Vite, Tailwind CSS, Node.js, MongoDB, AI insights.
-
-#### 📚 [Zenith Notes](https://zenith-notes.vercel.app/) – Student Resource Hub  
-Centralized platform for college students with scalable academic tools.  
-- **Features**: Searchable notes, responsive design.  
-- **Tech**: HTML, CSS, JavaScript.
-
----
-
 ### Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (React), TypeScript, Tailwind CSS  
 - **Backend**: Node.js, Express.js, FastAPI, Web3.js  
