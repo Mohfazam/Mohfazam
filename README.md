@@ -8,23 +8,6 @@
 
 ---
 
-### About Me
-<p align="center">
-  <img src="https://img.shields.io/badge/They%20think%20I%E2%80%99m%20hiding%20in%20the%20shadows,%20but%20I%E2%80%99m%20the%20shadows-121212?style=for-the-badge&logo=batman&logoColor=yellow" alt="Batman Quote" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dd9BKxEiGPY5pw6kVi/giphy.gif?cid=ecf05e47zci9497cn592kvavof9foua5hzxs08gh0ph1u20j&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Batman GIF" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dark%20Knight%20Coder-0F0E0E?style=for-the-badge&logo=batman&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Shadows%20Are%20Me-1A1A1A?style=for-the-badge&logo=moon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gotham%27s%20Debugger-12100E?style=for-the-badge&logo=shield&logoColor=FFD700" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - **🥇 HackRevolution 2025 Winner**  
