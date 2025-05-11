@@ -26,10 +26,19 @@
 ---
 
 ### 🏆 Achievements
+
 - **🥇 HackRevolution 2025 Winner**  
-  1st place among 280+ teams in a top-tier hackathon.
-- **🥇 Hackforge 2025 Winner**  
-  Topped 180+ teams while juggling semester exams.
+  1st place among 280+ teams in a premier national-level hackathon  
+  **Prize:** ₹35,000
+
+- **🥇 HackForge 2025 Winner**  
+  1st place out of 180+ teams while juggling semester exams  
+  **Prize:** ₹20,000
+
+- **🥉 Feuji GenAI Hackathon 2025 – 3rd Place**  
+  3rd place in a competitive AI-focused hackathon hosted at T-Hub  
+  **Prize:** ₹50,000
+
 
 ---
 
