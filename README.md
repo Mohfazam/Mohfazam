@@ -70,9 +70,9 @@
 ---
 
 ### Coding Profiles
-- [LeetCode](https://leetcode.com/Mohfazam) – 100+ problems  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile) – 150+
-- [CodeForces](https://codeforces.com/profile/mohfazam) – 850+ rating  
+- [LeetCode](https://leetcode.com/Mohfazam) – 100+ Problems  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Mohfazam/profile) – 150+ Problems
+- [CodeForces](https://codeforces.com/profile/mohfazam) – 850+ Rating  
 
 ---
 
