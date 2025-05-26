@@ -56,6 +56,9 @@
   <img src="https://img.shields.io/badge/Neon-00D8FF?style=for-the-badge&logo=neon&logoColor=black" />
   <img src="https://img.shields.io/badge/Monorepo-FF6F61?style=for-the-badge&logo=monorepo&logoColor=white" />
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ---
